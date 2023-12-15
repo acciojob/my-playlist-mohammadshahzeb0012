@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+body{
+    background-color: rgb(204, 204, 204)
+}
+h1, h2{
+    text-align: center;
+}
+.playlist{
+    margin: auto;
+    width: 75vw;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+.playlist, ul, li{
+    list-style-type: none;
+}
+.playlist, ul, li, a{
+    text-decoration: none;
+    color: black;
+}
+.playerContainer{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    width: 40vw;
+    margin: auto;
+    text-align: center;
+    padding: 1%;
+    box-sizing: border-box;
+    
+}
+.player_two,p{
+    text-align: left;
+}
+.player_two,audio{
+    width: 95%;
+}
