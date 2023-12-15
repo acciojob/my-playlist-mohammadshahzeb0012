@@ -28,6 +28,9 @@ h1, h2{
     box-sizing: border-box;
     
 }
+.player_one{
+	background-color: rgb(255, 255, 255);
+}
 .player_two,p{
     text-align: left;
 }
